@@ -4,4 +4,4 @@
 .pytest_cache
 *.tmp.driveupload
 
-+idea
+/+idea
