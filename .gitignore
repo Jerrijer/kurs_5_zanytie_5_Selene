@@ -1,6 +1,5 @@
-/.tmp.driveupload
-.tmp.driveupload
-/.pytest_cache
-.pytest_cache
-*.tmp.driveupload
-
+/.idea
+/venv
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
